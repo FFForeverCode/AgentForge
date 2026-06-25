@@ -1,0 +1,5 @@
+spring:
+  config:
+    name: AgentForge-app
+  profiles:
+    active: dev
